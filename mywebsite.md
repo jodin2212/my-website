@@ -1,6 +1,6 @@
 # Reflections on Creating My Website
 
-Before taking this course, I had not given much thought on how websites were constructed, other than being overwhelmed by how complicated I had perceived it to be. Throughout the semester, taking the course in Digital Technologies in Humanities, I gradually learned how these technologies and coding languages work, and how they can be  used in conjunction to create a functioning and nice looking website. Creating my own website as part of the course gave me the opportunity to gain more confidence in different kinds of coding and understand how to use a type of digital technologies in my own humanities field of study.
+Before taking this course, I had not given much thought on how websites were constructed, other than being overwhelmed by how complicated I had perceived it to be. Throughout the semester, taking the course in Digital Technologies in the Humanities, I gradually learned how these technologies and coding languages work, and how they can be  used in conjunction to create a functioning and nice looking website. Creating my own website as part of the course gave me the opportunity to gain more confidence in different kinds of coding and understand how to use a type of digital technologies in my own humanities field of study.
 
 ## HTML
 
